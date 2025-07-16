@@ -1,5 +1,5 @@
 📞 Call Center Dashboard
-This repository contains a Power BI call center dashboard created by Het to monitor and analyze call center performance over a selected period.
+This repository contains a Power BI call center dashboard created by Khushi to monitor and analyze call center performance over a selected period.
 
 📊 Dashboard Overview
 The dashboard provides key insights into the call center's operations, including:
@@ -52,4 +52,4 @@ Edit
 3. Refresh the data if needed.
 4. Interact with slicers and visuals.
 📌 Author
-Het
+Khushi
